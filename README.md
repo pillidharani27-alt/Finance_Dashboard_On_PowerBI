@@ -56,8 +56,8 @@ It highlights key financial metrics such as **Sales, Profit, COGS, Units Sold**,
 ---
 
 ## 🔗 Connect with Me
-- **LinkedIn:** ![linkedinprofile](www.linkedin.com/in/pillidharani)
-- **GitHub Profile:** ![GITPROFILE](https://github.com/pillidharani27-alt ) 
+- LinkedIn:![LINKEDIN PROFILE](www.linkedin.com/in/pillidharani)
+- GitHub Profile:![GITPROFILE](https://github.com/pillidharani27-alt ) 
 
 ---
 

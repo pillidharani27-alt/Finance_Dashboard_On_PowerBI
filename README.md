@@ -38,10 +38,10 @@ It highlights key financial metrics such as **Sales, Profit, COGS, Units Sold**,
 ## 🖼️ Dashboard Preview
 
 ### Home Page  
-![Home Page](Screenshots/Finance_Home.png)
+![Home Page](https://github.com/pillidharani27-alt/Finance_Dashboard_On_PowerBI/blob/main/screenshot/Finance%20Details.png?raw=true)
 
 ### Details Page  
-(Add more screenshots if needed)
+![Detailpage](
 
 ---
 
